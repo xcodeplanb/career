@@ -1,5 +1,11 @@
 ### 개인 템플릿 프로젝트 기본구조 및 샘플
  - https://github.com/xcodeplanb/structure
+   
+# career
+## 팟빵 앱 -(Android Native Application)
+### 담당 : 개발 및 유지보수
+### 스토어 링크
+- https://play.google.com/store/apps/details?id=com.makeshop.podbbang
 
 # career
 ## 펫핑 앱 -(Android Native Application)
